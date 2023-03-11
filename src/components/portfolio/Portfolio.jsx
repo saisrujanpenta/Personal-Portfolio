@@ -11,7 +11,7 @@ const data = [
     id: 1,
     image: IMG1,
     title: 'Personal Portfolio - React',
-    github: 'https://github.com',
+    github: 'https://github.com/saisrujanpenta/Personal-Portfolio',
     demo: 'https://saisrujanpenta.com'
   },
 
@@ -35,7 +35,7 @@ const data = [
     id: 4,
     image: IMG4,
     title: 'FutureTalent - An Education Product Landing Page',
-    github: 'https://github.com',
+    github: 'https://github.com/saisrujanpenta/UX-Design/blob/main/Future%20Talent%20-%20Landing%20Page.zip',
     demo: 'https://www.figma.com/proto/zbRKPyWXhKbEV4dDAppU9Z/Untitled?node-id=17%3A3255&scaling=scale-down-width'
   },
 
@@ -66,7 +66,7 @@ const Portfolio = () => {
                 </div>
                 <h3>{title}</h3>
                 <div className="portfolio_item-cta">
-                  <a href={github} className='btn'>Github</a>
+                  <a href={github} className='btn' target='_blank' rel="nonreferrer">Github</a>
                   <a href={demo} className='btn btn-primary' target='_blank' rel="nonreferrer">Live Demo</a>
                 </div>
               </article>
