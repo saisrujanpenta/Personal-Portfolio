@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.ce44c0b3.css",
+    "main.js": "/Personal-Portfolio/static/js/main.5c62a7c1.js",
+    "static/media/Walmart.png": "/Personal-Portfolio/static/media/Walmart.418ad6d8ee52e4a12fea.png",
+    "static/media/me.png": "/Personal-Portfolio/static/media/me.ed71c05c792781162ab9.png",
+    "static/media/DreamHome.png": "/Personal-Portfolio/static/media/DreamHome.7f3e9778cf6798906a6e.png",
+    "static/media/Resume.pdf": "/Personal-Portfolio/static/media/Resume.b286e2dd43c874214d0a.pdf",
+    "static/media/GrowthSpur.png": "/Personal-Portfolio/static/media/GrowthSpur.834dda14b93e41069352.png",
+    "static/media/FutureTalent.png": "/Personal-Portfolio/static/media/FutureTalent.aaf4da84cd71561369c7.png",
+    "static/media/portfolio.png": "/Personal-Portfolio/static/media/portfolio.384e8830058a739aa489.png",
+    "static/media/ME.jpeg": "/Personal-Portfolio/static/media/ME.e0288cfb3f3a321cf963.jpeg",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.ce44c0b3.css.map": "/Personal-Portfolio/static/css/main.ce44c0b3.css.map",
+    "main.5c62a7c1.js.map": "/Personal-Portfolio/static/js/main.5c62a7c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce44c0b3.css",
+    "static/js/main.5c62a7c1.js"
+  ]
+}
