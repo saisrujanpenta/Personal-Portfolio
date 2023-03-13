@@ -55,7 +55,7 @@ const Portfolio = () => {
       <h5>My Recent Work</h5>
       <h2>Projects</h2>
 
-      <div className="container portfolio_container">
+      <div className="container portfolio_container" data-aos="zoom-in" data-aos-delay="100" data-aos-easing="ease-in-sine" data-aos-duration="550">
         
         {
           data.map(({id, image, title, github, demo}) => {

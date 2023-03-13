@@ -8,7 +8,7 @@ const Services = () => {
       <h5>What I can do</h5>
       <h2>Skills</h2>
 
-      <div className="container services_container">
+      <div className="container services_container" data-aos="zoom-in" data-aos-delay="400" data-aos-easing="ease-in-sine" data-aos-duration="550">
         <article className='service'>
           <div className="service_head">
             <h3>Web Development</h3>

@@ -11,7 +11,7 @@ const Education = () => {
       <h2>My Education</h2>
 
       <div className="container education_container">
-        <div className="education_sse">
+        <div className="education_sse" data-aos="zoom-out-right" data-aos-duration="750">
           <h3>Northeastern University</h3>
           <div className="education_content">
             <article className='education_details'>
@@ -46,7 +46,7 @@ const Education = () => {
           </div>
         </div>
 {/* end of senior software engineer */}
-        <div className="education_se">
+        <div className="education_se" data-aos="zoom-out-left" data-aos-duration="1550">
           <h3>Vellore Institute of Technology</h3>
           <div className="education_content">
             <article className='education_details'>

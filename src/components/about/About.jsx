@@ -12,7 +12,7 @@ const About = () => {
       <h5>Get to Know</h5>
       <h2>About Me</h2>
 
-      <div className="container about_container">
+      <div className="container about_container" data-aos="zoom-in" data-aos-delay="200" data-aos-easing="ease-in-sine" data-aos-duration="550">
         <div className="about_me">
           <div className="about_me-image">
             <img src={ME} alt='about image' />
@@ -20,24 +20,24 @@ const About = () => {
         </div>
 
         <div className="about_content">
-          <div className="about_cards">
-            <article className='about_card'>
+          <div className="about_cards" data-aos="zoom-in-right" data-aos-delay="300" data-aos-easing="ease-in-sine" data-aos-duration="1050">
+            <div data-aos="zoom-in-right" data-aos-delay="400"><article className='about_card'>
               <FaAward className='about_icon' />
               <h5>Experience</h5>
               <small>2 Years Working</small>
-            </article>
+            </article></div>
 
-            <article className='about_card'>
+            <div data-aos="zoom-in-right" data-aos-delay="500" data-aos-duration="1350"><article className='about_card'>
               <VscFolderLibrary className='about_icon' />
               <h5>Projects</h5>
               <small>20+ Completed</small>
-            </article>
+            </article></div>
 
-            <article className='about_card'>
+            <div data-aos="zoom-in-right" data-aos-delay="700" data-aos-duration="1650"><article className='about_card'>
               <FaLanguage className='about_icon' />
               <h5>Languages</h5>
               <small>3 Different Languages</small>
-            </article>
+            </article></div>
 
           </div>
 

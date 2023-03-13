@@ -11,7 +11,7 @@ const Experience = () => {
       <h2>My Work Experience</h2>
 
       <div className="container experience_container">
-        <div className="experience_sse">
+        <div className="experience_sse" data-aos="zoom-out-right" data-aos-duration="750">
           <h3>Senior Software Engineer</h3>
           <div className="experience_content">
             <article className='experience_details'>
@@ -41,7 +41,7 @@ const Experience = () => {
           </div>
         </div>
 {/* end of senior software engineer */}
-        <div className="experience_se">
+        <div className="experience_se" data-aos="zoom-out-left" data-aos-duration="1550">
           <h3>Software Engineer</h3>
           <div className="experience_content">
             <article className='experience_details'>
