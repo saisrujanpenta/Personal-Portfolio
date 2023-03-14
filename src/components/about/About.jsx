@@ -1,6 +1,15 @@
 import React from 'react'
 import './About.css'
 import ME from '../../assets/ME.jpeg'
+import html from '../../assets/html-5.png'
+import css from '../../assets/css-3.png'
+import react from '../../assets/science.png'
+import JavaScript from '../../assets/js.png'
+import node from '../../assets/nodejs.png'
+import mongo from '../../assets/MongoDB.png'
+import bootstrap from '../../assets/bootstrap.png'
+import figma from '../../assets/figma.png'
+
 import {FaAward} from 'react-icons/fa'
 import {FaLanguage} from 'react-icons/fa'
 import {VscFolderLibrary} from 'react-icons/vsc'
@@ -13,15 +22,29 @@ const About = () => {
       <h2>About Me</h2>
 
       <div className="container about_container" data-aos="zoom-in" data-aos-delay="200" data-aos-easing="ease-in-sine" data-aos-duration="550">
-        <div className="about_me">
-          <div className="about_me-image">
-            <img src={ME} alt='about image' />
+        <div>
+          <div className="about_me">
+            <div className="about_me-image">
+              <img src={ME} alt='about image' />
+            </div>
+          </div>
+
+          <div className="skills_icons" data-aos="zoom-in-right" data-aos-delay="500" data-aos-duration="1350">
+            <article className='skill_icon'><img className='icon_images' src={html} alt='about image' /></article>
+            <article className='skill_icon'><img className='icon_images' src={css} alt='about image' /></article>
+            <article className='skill_icon'><img className='icon_images' src={react} alt='about image' /></article>
+            <article className='skill_icon'><img className='icon_images' src={JavaScript} alt='about image' /></article>
+            <article className='skill_icon'><img className='icon_images' src={node} alt='about image' /></article>
+            <article className='skill_icon'><img className='icon_images' src={mongo} alt='about image' /></article>
+            <article className='skill_icon'><img className='icon_images' src={bootstrap} alt='about image' /></article>
+            <article className='skill_icon'><img className='icon_images' src={figma} alt='about image' /></article>
           </div>
         </div>
 
         <div className="about_content">
           <div className="about_cards" data-aos="zoom-in-right" data-aos-delay="300" data-aos-easing="ease-in-sine" data-aos-duration="1050">
-            <div data-aos="zoom-in-right" data-aos-delay="400"><article className='about_card'>
+            <div data-aos="zoom-in-right" data-aos-delay="400">
+            <article className='about_card'>
               <FaAward className='about_icon' />
               <h5>Experience</h5>
               <small>2 Years Working</small>

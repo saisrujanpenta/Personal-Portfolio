@@ -28,6 +28,23 @@
     transform: rotate(0);
 }
 
+.skills_icons {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    margin-top: 200px;
+}
+
+.skill_icon {
+    padding: 2rem;
+    text-align: center;
+}
+
+.icon_images{
+    width: 200%;
+    
+}
+
 .about_cards {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -86,6 +103,13 @@
     .about_content p {
         margin: 1rem 0 1.5rem;
     }
+
+    .skills_icons {
+        display: grid;
+        grid-template-columns: repeat(6, 1fr);
+        gap: 1.5rem;
+        margin-top: 150px;
+    }
 }
 /*-------------------------------------Media Queries (Small Devices)---------------------------------*/
 
@@ -93,6 +117,13 @@
     .about_me {
         width: 65%;
         margin: 0 auto 3rem;
+    }
+
+    .skills_icons {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 0.3rem;
+        margin-top: 100px;
     }
 
     .about_cards {

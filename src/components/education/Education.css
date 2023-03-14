@@ -70,6 +70,10 @@
 /*-------------------------------------Media Queries (Medium Devices)---------------------------------*/
 
 @media screen and (max-width: 1024px) {
+    #education {
+        margin-top: -500px;
+    }
+    
     .education_container {
         grid-template-columns: 1fr;
     }
@@ -89,7 +93,7 @@
 
 @media screen and (max-width: 600px) {
     #education {
-        margin-top: 650px;
+        margin-top: 1000px;
     }
 
     .education_container {
