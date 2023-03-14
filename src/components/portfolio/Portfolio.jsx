@@ -42,7 +42,7 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: 'Walmart Clone - Balsamic',
+    title: 'Walmart Clone - Balsamiq',
     github: 'https://github.com/saisrujanpenta/UX-Design/blob/main/Walmart%20Clone.zip',
     demo: 'https://drive.google.com/file/d/1j54kOs82VDAx5v3LJ0qU3X7y8ndq4smn/view?usp=sharing'
   }

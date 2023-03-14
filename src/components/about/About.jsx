@@ -84,7 +84,7 @@ const About = () => {
           animations. So far I have SQL, JavaScript, HTML, CSS, jQuery, Angular, Bootstrap, React, Node.JS, 
           MongoDB and Git under my belt. I've started learning Python. I'm still enthusiastically grabbing onto 
           any other programming languages, frameworks or principles I can integrate into the coding web in my head. 
-          I am also into User Experience Design. I am experienced with tools like Moqups, Balsamic and Figma and 
+          I am also into User Experience Design. I am experienced with tools like Moqups, Balsamiq and Figma and 
           designed beautiful web pages and mobile applications.
           </p>
 
