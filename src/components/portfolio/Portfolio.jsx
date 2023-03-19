@@ -10,7 +10,7 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Personal Portfolio - React',
+    title: 'Professional Portfolio - React',
     github: 'https://github.com/saisrujanpenta/Personal-Portfolio',
     demo: 'https://saisrujanpenta.com'
   },
