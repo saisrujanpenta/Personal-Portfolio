@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8ccdc545.css",
-    "main.js": "/static/js/main.d7cda3fa.js",
+    "main.js": "/static/js/main.09db2d06.js",
     "static/media/Walmart.png": "/static/media/Walmart.418ad6d8ee52e4a12fea.png",
     "static/media/me.png": "/static/media/me.ed71c05c792781162ab9.png",
     "static/media/DreamHome.png": "/static/media/DreamHome.7f3e9778cf6798906a6e.png",
@@ -9,7 +9,7 @@
     "static/media/FutureTalent.png": "/static/media/FutureTalent.aaf4da84cd71561369c7.png",
     "static/media/portfolio.png": "/static/media/portfolio.4201cd738924a202fdbe.png",
     "static/media/ME.jpeg": "/static/media/ME.e0288cfb3f3a321cf963.jpeg",
-    "static/media/Resume.pdf": "/static/media/Resume.e0f25d61b8813db15e86.pdf",
+    "static/media/Resume.pdf": "/static/media/Resume.8126689b8af04525ac72.pdf",
     "static/media/Zolve.png": "/static/media/Zolve.ae2a222c1c800b7af798.png",
     "static/media/MongoDB.png": "/static/media/MongoDB.28441533859e9e809f30.png",
     "static/media/nodejs.png": "/static/media/nodejs.007e99f68b718e476aba.png",
@@ -21,10 +21,10 @@
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/index.html",
     "main.8ccdc545.css.map": "/static/css/main.8ccdc545.css.map",
-    "main.d7cda3fa.js.map": "/static/js/main.d7cda3fa.js.map"
+    "main.09db2d06.js.map": "/static/js/main.09db2d06.js.map"
   },
   "entrypoints": [
     "static/css/main.8ccdc545.css",
-    "static/js/main.d7cda3fa.js"
+    "static/js/main.09db2d06.js"
   ]
 }
