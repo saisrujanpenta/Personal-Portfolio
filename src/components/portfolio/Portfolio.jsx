@@ -5,6 +5,7 @@ import IMG2 from '../../assets/DreamHome.png'
 import IMG3 from '../../assets/GrowthSpur.png'
 import IMG4 from '../../assets/FutureTalent.png'
 import IMG5 from '../../assets/Walmart.png'
+import IMG6 from '../../assets/Zolve.png'
 
 const data = [
   {
@@ -26,9 +27,9 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: 'GrowthSpur - An Enterprise Domain Landing Page',
+    title: 'GrowthSpur - An Enterprise Domain Mobile Application',
     github: 'https://github.com',
-    demo: 'https://www.figma.com/proto/zbRKPyWXhKbEV4dDAppU9Z/Untitled?node-id=2%3A5&scaling=scale-down-width'
+    demo: 'https://www.figma.com/file/KB2Tyku2aHsyYaeSbgMTgF/Final-Project?node-id=0%3A1&t=dJ3u16GGzMMLTD64-1'
   },
 
   {
@@ -45,6 +46,14 @@ const data = [
     title: 'Walmart Clone - Balsamiq',
     github: 'https://github.com/saisrujanpenta/UX-Design/blob/main/Walmart%20Clone.zip',
     demo: 'https://drive.google.com/file/d/1j54kOs82VDAx5v3LJ0qU3X7y8ndq4smn/view?usp=sharing'
+  },
+
+  {
+    id: 6,
+    image: IMG6,
+    title: 'Mobile Banking Application - Moqups',
+    github: 'https://github.com/saisrujanpenta/UX-Design/blob/main/Zolve%20Application%20Clone.zip',
+    demo: 'https://app.moqups.com/v2ce1RoaBsSgRBq2z59lY4o9igfjnYQB/view/page/a318f6d8d'
   }
 ]
 

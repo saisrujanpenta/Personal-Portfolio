@@ -26,13 +26,13 @@ const Experience = () => {
             <ul className='experience_details-content'>
               <li>
                 <BiCheck className='experience_details-icon' />
-                <p>Performed mandatory system configurations, managing and customizing system settings to optimize its performance</p>
+                <p>Constructed reliable solutions using JavaScript and React.js design pattern to meet client demands for functionality, scalability and performance attained an average of 95% client satisfaction ratings</p>
               </li>
               <li><BiCheck className='experience_details-icon' />
-                <p>Configured system monitoring tools to track and measure key performance indicators, resulting in increased system efficiency and troubleshooting capabilities</p>
+                <p>Designed web-based software using CSS, HTML, JavaScript and Web API to improve user experience and accomplished a 20% reduction in development time through use of templates and table-driven methods</p>
               </li>
               <li><BiCheck className='experience_details-icon' />
-                <p>Implemented Monitoring dashboards on Fiori Launchpad and helped identifying and troubleshooting issues quickly, making data-driven decisions, and monitoring performance of business processes</p>
+                <p>Initiated and led training three peers in web technologies (HTML, CSS, JavaScript), ensuring responsive website creation for enhanced user satisfaction and leading to promotions</p>
               </li>
               <li><BiCheck className='experience_details-icon' />
                 <p>Coordinated with IT, business, program management teams in deploying project specific solutions</p>
@@ -55,14 +55,14 @@ const Experience = () => {
 
             <ul className='experience_details-content'>
               <li><BiCheck className='experience_details-icon2' />
-                <p>Conducted regular system monitoring procedures, generated detailed reports, and provided to concerned teams to ensure optimal system performance</p>
+                <p>Executed HTML, CSS, SASS, and JavaScript to build and deliver responsive websites, demonstrating a seamless user experience and strict adherence to modern web development practices</p>
               </li>
               <li><BiCheck className='experience_details-icon2' />
-                <p>Configured transport management system between landscapes and transported requests from development to quality and then to production</p>
+                <p>Achieved a track record of skillfully collaborating with diverse team members, clients and stakeholders, facilitating clear and concise information exchange for achieving favorable project outcomes</p>
               </li>
-              <li><BiCheck className='experience_details-icon2' />
+              {/* <li><BiCheck className='experience_details-icon2' />
                 <p>Established and verified Remote Function Call connections between systems to facilitate communication and data exchange</p>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>
