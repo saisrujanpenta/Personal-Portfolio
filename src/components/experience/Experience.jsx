@@ -26,13 +26,13 @@ const Experience = () => {
             <ul className='experience_details-content'>
               <li>
                 <BiCheck className='experience_details-icon' />
-                <p>Spearheaded initiatives to boost system performance by implementing cutting-edge monitoring dashboards and fine-tuning performance tracking tools, resulting in a remarkable 25% reduction in issue resolution time</p>
+                <p>Optimized web application performance by deploying React.js for monitoring dashboards, achieving a 25% reduction in issue resolution time, streamlining user experience and system efficiency.</p>
               </li>
               <li><BiCheck className='experience_details-icon' />
-                <p>Pioneered implementation of streamlined processes for problem resolution and decision-making by introducing monitoring dashboards on Fiori Launchpad, leading to an impressive 50% reduction in issue identification</p>
+                <p>Led the development and integration of performance tracking tools on Fiori Launchpad, achieving a 50% quicker issue identification, thereby enhancing decision-making processes and system responsiveness.</p>
               </li>
               <li><BiCheck className='experience_details-icon' />
-                <p>Played a pivotal role in training and empowering a functional team on platform utilization, significantly enhancing team proficiency and overall productivity</p>
+                <p>Facilitated team development by conducting hands-on training sessions on UI/UX design principles and web technologies (including JavaScript, HTML, and CSS), boosting team proficiency and productivity in front-end development projects.</p>
               </li>
               {/* <li><BiCheck className='experience_details-icon' />
                 <p>Designed web-based software using CSS, HTML, JavaScript and Web API to improve user experience and accomplished a 20% reduction in development time through use of templates and table-driven methods</p>
@@ -55,13 +55,13 @@ const Experience = () => {
 
             <ul className='experience_details-content'>
               <li><BiCheck className='experience_details-icon2' />
-                <p>Proactively monitored and managed system performance, generating insightful reports for relevant teams, contributing to a substantial improvement in system uptime and a 15% reduction in critical incidents</p>
+                <p>Enhanced system uptime and achieved a 15% reduction in critical incidents by proactively monitoring and managing system performance, utilizing React.js and Node.js to generate actionable insights for continuous improvement.</p>
               </li>
               <li><BiCheck className='experience_details-icon2' />
-                <p>Led configuration of a transport management system between landscapes, ensuring seamless transport of requests from development to quality and production environments, streamlining development lifecycle</p>
+                <p>Streamlined the development lifecycle by leading the configuration of a transport management system, ensuring efficient transitions from development through production environments and fostering seamless project flows.</p>
               </li>
               <li><BiCheck className='experience_details-icon2' />
-                <p>Achieved a track record of skillfully collaborating with diverse team members, clients and stakeholders, facilitating clear and concise information exchange for achieving favorable project outcomes</p>
+                <p>Fostered effective collaboration across teams, clients, and stakeholders, leveraging JavaScript, HTML, and CSS in conjunction with Agile methodologies to facilitate clear communication and achieve positive project outcomes.</p>
               </li>
               {/* <li><BiCheck className='experience_details-icon2' />
                 <p>Developed and maintained multiple responsive web applications using React, incorporating Material-UI for interactive user interfaces, resulting in a 20% increase in user engagement</p>
