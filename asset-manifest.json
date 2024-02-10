@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.58b4eceb.css",
-    "main.js": "/static/js/main.28e3c620.js",
+    "main.js": "/static/js/main.7b60271e.js",
     "static/media/Walmart.png": "/static/media/Walmart.418ad6d8ee52e4a12fea.png",
     "static/media/me.png": "/static/media/me.ed71c05c792781162ab9.png",
     "static/media/DreamHome.png": "/static/media/DreamHome.7f3e9778cf6798906a6e.png",
@@ -21,10 +21,10 @@
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/index.html",
     "main.58b4eceb.css.map": "/static/css/main.58b4eceb.css.map",
-    "main.28e3c620.js.map": "/static/js/main.28e3c620.js.map"
+    "main.7b60271e.js.map": "/static/js/main.7b60271e.js.map"
   },
   "entrypoints": [
     "static/css/main.58b4eceb.css",
-    "static/js/main.28e3c620.js"
+    "static/js/main.7b60271e.js"
   ]
 }
