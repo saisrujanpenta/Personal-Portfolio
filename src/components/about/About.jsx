@@ -24,9 +24,9 @@ const About = () => {
       <div className="container about_container" data-aos="zoom-in" data-aos-delay="200" data-aos-easing="ease-in-sine" data-aos-duration="550">
         <div>
           <div className="about_me">
-            {/* <div className="about_me-image">
+            <div className="about_me-image">
               <img src={me} alt='about image' />
-            </div> */}
+            </div>
           </div>
 
           <div className="skills_icons" data-aos="zoom-in-right" data-aos-delay="500" data-aos-duration="1350">
