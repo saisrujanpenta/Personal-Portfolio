@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import me from '../../assets/me.jpeg'
+import me from '../../assets/me.png'
 import html from '../../assets/html-5.png'
 import css from '../../assets/css-3.png'
 import react from '../../assets/science.png'
