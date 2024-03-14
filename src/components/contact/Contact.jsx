@@ -35,14 +35,14 @@ const Contact = () => {
             <TbMessage className='contact_option-icon'/>
             <h4>Text</h4>
             {/* <h5>+1 </h5> */}
-            <a href="sms:+16124503469" target='_blank' rel='noreferrer'>Send a Text Message</a>
+            <a href="sms:+16172496497" target='_blank' rel='noreferrer'>Send a Text Message</a>
           </article>
 
           <article className='contact_option'>
             <MdOutlineCall className='contact_option-icon'/>
             <h4>Call</h4>
             {/* <h5>penta.s@northeastern.edu</h5> */}
-            <a href="tel:+16124503469" target='_blank' rel='noreferrer'>Call on Mobile</a>
+            <a href="tel:+16172496497" target='_blank' rel='noreferrer'>Call on Mobile</a>
           </article>
         </div>
 
