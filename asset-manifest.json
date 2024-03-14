@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.58b4eceb.css",
-    "main.js": "/static/js/main.dc2761d2.js",
+    "main.js": "/static/js/main.de38a2d1.js",
     "static/media/Walmart.png": "/static/media/Walmart.418ad6d8ee52e4a12fea.png",
     "static/media/me.png": "/static/media/me.ed71c05c792781162ab9.png",
     "static/media/DreamHome.png": "/static/media/DreamHome.7f3e9778cf6798906a6e.png",
     "static/media/GrowthSpur.png": "/static/media/GrowthSpur.834dda14b93e41069352.png",
     "static/media/FutureTalent.png": "/static/media/FutureTalent.aaf4da84cd71561369c7.png",
     "static/media/portfolio.png": "/static/media/portfolio.4201cd738924a202fdbe.png",
-    "static/media/me.jpeg": "/static/media/me.e0288cfb3f3a321cf963.jpeg",
     "static/media/Zolve.png": "/static/media/Zolve.ae2a222c1c800b7af798.png",
     "static/media/MongoDB.png": "/static/media/MongoDB.28441533859e9e809f30.png",
     "static/media/nodejs.png": "/static/media/nodejs.007e99f68b718e476aba.png",
@@ -21,10 +20,10 @@
     "static/media/Resume.pdf": "/static/media/Resume.8bbb7355121f505fa7e8.pdf",
     "index.html": "/index.html",
     "main.58b4eceb.css.map": "/static/css/main.58b4eceb.css.map",
-    "main.dc2761d2.js.map": "/static/js/main.dc2761d2.js.map"
+    "main.de38a2d1.js.map": "/static/js/main.de38a2d1.js.map"
   },
   "entrypoints": [
     "static/css/main.58b4eceb.css",
-    "static/js/main.dc2761d2.js"
+    "static/js/main.de38a2d1.js"
   ]
 }
