@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import ME from '../../assets/ME.jpeg'
+import me from '../../assets/me.jpeg'
 import html from '../../assets/html-5.png'
 import css from '../../assets/css-3.png'
 import react from '../../assets/science.png'
@@ -25,7 +25,7 @@ const About = () => {
         <div>
           <div className="about_me">
             <div className="about_me-image">
-              <img src={ME} alt='about image' />
+              <img src={me} alt='about image' />
             </div>
           </div>
 
