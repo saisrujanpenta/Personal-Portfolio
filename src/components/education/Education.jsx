@@ -19,7 +19,7 @@ const Education = () => {
               <div>
               <h4>Information Systems</h4>
               <small className='text-light'>Master of Science</small><br></br>
-              <small className='text-light'>January 2022 - December 2023 (Expected)</small>
+              <small className='text-light'>January 2022 - December 2023</small>
               </div>
             </article>
 
